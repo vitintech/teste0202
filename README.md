@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-> Aqui está o [link do jogo do numero secreto](file:///C:/Users/aless/Downloads/3386-git-github-projeto_inicial/3386-git-github-projeto_inicial/index.html), **aproveite!**
+ Aqui está o [link do jogo do numero secreto](file:///C:/Users/aless/Downloads/3386-git-github-projeto_inicial/3386-git-github-projeto_inicial/index.html/), **aproveite!**
