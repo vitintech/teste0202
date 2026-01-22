@@ -12,5 +12,5 @@
 
 <h1>Colaboradores</h1>
 <div>
-  <img src="WhatsApp Image 2025-09-09 at 10.54.51.jpeg" alt="pessoa segurando um sapato e tirando uma selfie"/>
+  <img src="img/WhatsApp Image 2025-09-09 at 10.54.51.jpeg" alt="pessoa segurando um sapato e tirando uma selfie"/>
 </div>
