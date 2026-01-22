@@ -1,0 +1,1 @@
+esse arquivo deve ser ignorado, pois apliquei o comando git ignore, tendo isso estou aprendendo a usar o git ignore e estou testando um comando.
