@@ -11,4 +11,6 @@
 </div>
 
 <h1>Colaboradores</h1>
-<img src="WhatsApp Image 2025-09-09 at 10.54.51.jpeg">
+<div>
+  <img src="WhatsApp Image 2025-09-09 at 10.54.51.jpeg">
+</div>
