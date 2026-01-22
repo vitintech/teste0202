@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<h1>Colaboradores</h1>
+<h1>Autor</h1>
 <div>
   <img src="img/WhatsApp Image 2025-09-09 at 10.54.51.jpeg" alt="pessoa segurando um sapato e tirando uma selfie"/>
 </div>
