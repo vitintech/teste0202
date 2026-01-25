@@ -14,3 +14,6 @@
 <div>
   <img src="img/WhatsApp Image 2025-09-09 at 10.54.51.jpeg" alt="pessoa segurando um sapato e tirando uma selfie"/>
 </div>
+
+<h1>�� O que aprendi com esse curso?</h1>
+<p>Com a conclusão desse curso aprendi boas práticas de Github e Git, aprendendo como criar um repositorio e como usar o git no terminal do VScode para criar, adicionar, e conectar o repositorio local ao remoto (repositorio no github), e também pelo IDE do VScode. Aprendi sobre commits, branch, como deletar um commit ou revert, ou modificar uma mensagem, e como utilizar outros comandos básicos e essenciais para me tornar um bom desenvolvedor. Thank you!  </p>
